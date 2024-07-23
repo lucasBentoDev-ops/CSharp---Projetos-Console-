@@ -31,6 +31,6 @@ Digite ou copie este comando e cole no terminal e pressione **ENTER**
 git clone https://github.com/lucasBentoDev-ops/CSharp---Projetos-Console-.git
 ```
 
-### Baixar e intalar a IDE Visual Studio Code  <img src="" alt="Minha Figura">
+### Baixar e intalar a IDE Visual Studio Code  <img src="img/apple-touch-icon (1).png" alt="Logo do Visual Studio">
 - Abra uma nova janela do navegador e navegue até: https://code.visualstudio.com.
 Você pode usar qualquer navegador, como o Microsoft Edge ou o Google Chrome.
